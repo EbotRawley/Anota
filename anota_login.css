@@ -1,0 +1,89 @@
+body{
+	background: linear-gradient(to left,#234,#333,#432);
+}
+form{
+	border: 1px solid #c6c7cc;
+	border-radius: 8px;
+	font-family: sans-serif;
+	width: 40%;
+	top: 10%;
+	left: 30%;
+	overflow: hidden;
+	position: absolute;
+}
+fieldset{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+input{
+	border-radius: 5px;
+	font-family: sans-serif;
+	margin: 0;
+}
+.PL-info{
+	padding: 20px 20px 0px 20px;
+	left: 10%;
+	position: relative;
+}
+.PL-info label{
+	color: #395870;
+	display: block;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.PL-info input{
+	background: #fff;
+	border: none;
+	height: 25px;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+	color: #636466;
+	padding: 6px;
+	margin-top: 3px;
+	width: 75%;
+}
+.end{
+	padding: 20px 20px 0 170px;
+}
+.title{
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+    transform: translateY(20px);
+    letter-spacing: 2px;
+}
+.end .btn{
+	background: linear-gradient(#49708f,#293f50);
+	border: 0;
+	cursor: pointer;
+	font-weight: normal;
+	padding: 8px 16px;
+	width: 65%;
+	color: #888;
+	letter-spacing: 1px;
+	font-size: 15px;
+	border-radius: 5px;
+	font-family: sans-serif;
+	margin-left: 45px;
+	margin-bottom: 40px;
+	transform: translateY(-10px);
+}
+span{
+	position: relative;
+	bottom: 15px;
+	margin-left: 110px; 
+	letter-spacing: 1px;
+}
+.Sign{
+	color:blue;
+	transform: translateY(-15px);
+	position: relative;
+}
+#for a{
+	text-decoration: none;
+	color: Lightblue;
+	position: absolute;
+	left: 60px;
+}
